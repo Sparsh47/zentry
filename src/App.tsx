@@ -1,6 +1,8 @@
 function App() {
   return (
-      <div className="w-full h-20 bg-red-500"></div>
+      <div className="w-full">
+        <h1 className="font-zentry text-9xl">ZENTRY</h1>
+      </div>
   )
 }
 
